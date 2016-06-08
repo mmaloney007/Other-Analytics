@@ -1,0 +1,8 @@
+dh-methods-in-r
+debug
+RStan
+.RData
+.Rhistory
+../private.scripts
+*.csv
+*.png
